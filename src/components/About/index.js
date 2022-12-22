@@ -34,7 +34,7 @@ function About() {
             on-brand experience layered over powerful backend performance.
           </p>
           <p>
-            I am currently living in Gilbert, Arizona with my partner, our two
+            I am currently living in Gilbert, Arizona with my husband, our two
             orange tabbies and several cacti.
           </p>
         </div>
