@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <header>
-      <h1><span onClick={() => navigate("/")}>Sophia Barrett</span></h1>
+      <h1><span onClick={() => navigate("/")}>Sophia Peñate</span></h1>
       <Nav />
     </header>
   );

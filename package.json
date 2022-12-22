@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://sophiabarrett.co/",
+  "homepage": "https://sophiapenate.com/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",

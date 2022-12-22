@@ -32,7 +32,7 @@ function Resume() {
         </p>
         <div className="download">
           <a
-            href={require("../../assets/downloads/Barrett_Sophia_RESUME.pdf")}
+            href={require("../../assets/downloads/Penate_Sophia_RESUME.pdf")}
             className="button"
             download
           >
