@@ -11,7 +11,7 @@ A single-page React app to share my work, resume, contact informaion, and a litt
 
 ## Live App
 
-Visit the live app at [sophiabarrett.co](http://sophiabarrett.co/)
+Visit the live app at [sophiapenate.com](http://sophiapenate.com/)
 
 ## Screenshot
 
@@ -19,8 +19,8 @@ Visit the live app at [sophiabarrett.co](http://sophiabarrett.co/)
 
 ## Questions
 
-For questions contact Sophia Barrett at sophia@sophiabarrett.co or visit github.com/sophiabarrett.
+For questions contact Sophia Peñate at sophia@sophiapenate.com or visit github.com/sophiapenate.
 
 ## Copyright
 
-Copyright © 2022 Sophia Barrett. All Rights Reserved.
+Copyright © 2022 Sophia Peñate. All Rights Reserved.

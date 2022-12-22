@@ -6,7 +6,7 @@ function About() {
           <h2>About</h2>
           <img
             src={require("../../assets/images/about-me.png")}
-            alt="Sophia Barrett and partner on a hike."
+            alt="Sophia Peñate and husband on a hike."
           />
         </div>
         <div className="content-wrapper">
@@ -34,7 +34,7 @@ function About() {
             on-brand experience layered over powerful backend performance.
           </p>
           <p>
-            I am currently living in Gilbert, Arizona with my partner, our two
+            I am currently living in Gilbert, Arizona with my husband, our two
             orange tabbies and several cacti.
           </p>
         </div>

@@ -72,7 +72,7 @@ function Contact() {
 
       emailjs
         .sendForm(
-          "sophia@sophiabarrett.co",
+          "sophia@sophiapenate.com",
           "portfolio_contact_form",
           e.target,
           "user_WZsDCzpVv3pWVCWOteguY"
@@ -92,7 +92,7 @@ function Contact() {
           },
           (error) => {
             setSubmitStatus(
-              "Sorry, something went wrong. Try again or email me directly at sophia@sophiabarrett.co."
+              "Sorry, something went wrong. Try again or email me directly at sophia@sophiapenate.com."
             );
             console.error(error.text);
           }
@@ -168,21 +168,21 @@ function Contact() {
         <h4>Contact me directly at:</h4>
         <ul>
           <li>
-            <a href="mailto:sophia@sophiabarrett.co" target="_blank">
-              <i className="fas fa-paper-plane"></i> sophia@sophiabarrett.co
+            <a href="mailto:sophia@sophiapenate.com" target="_blank">
+              <i className="fas fa-paper-plane"></i> sophia@sophiapenate.com
             </a>
           </li>
           <li>
-            <a href="https://github.com/sophiabarrett" target="_blank">
-              <i className="fab fa-github"></i> github.com/sophiabarrett
+            <a href="https://github.com/sophiapenate" target="_blank">
+              <i className="fab fa-github"></i> github.com/sophiapenate
             </a>
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/sophiabarrett/"
+              href="https://www.linkedin.com/in/sophiapenate/"
               target="_blank"
             >
-              <i className="fab fa-linkedin"></i> linkedin.com/in/sophiabarrett
+              <i className="fab fa-linkedin"></i> linkedin.com/in/sophiapenate
             </a>
           </li>
         </ul>
