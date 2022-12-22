@@ -6,7 +6,7 @@ function About() {
           <h2>About</h2>
           <img
             src={require("../../assets/images/about-me.png")}
-            alt="Sophia Barrett and partner on a hike."
+            alt="Sophia Peñate and husband on a hike."
           />
         </div>
         <div className="content-wrapper">
