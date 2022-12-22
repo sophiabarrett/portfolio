@@ -18,7 +18,7 @@ function Resume() {
           experience design.
         </p>
         <p>
-          <span className="paragraph-start">Technical Skills:</span> MERN Stack,
+          <span className="paragraph-start">Technical Skills:</span> MERN Stack, Spring, Java,
           JavaScript, HTML, CSS, Git, GraphQL, Apollo, Mongoose, Sequelize,
           NoSQL, MySQL, WordPress, Handlebars, Bootstrap, Illustrator,
           Photoshop, InDesign
