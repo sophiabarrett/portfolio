@@ -13,7 +13,7 @@ import Resume from "./components/Resume";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <div className="page-wrapper">
         <Header />
         <main>
